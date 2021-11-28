@@ -1,1 +1,0 @@
-(this["webpackJsonpfront-in-react"]=this["webpackJsonpfront-in-react"]||[]).push([[6],{104:function(n,t,r){"use strict";r.r(t),r.d(t,"default",(function(){return e}));r(0);var c=r(1);function e(){return Object(c.jsx)("div",{children:"OPORTUNIDADES"})}}}]);
