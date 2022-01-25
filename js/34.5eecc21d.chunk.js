@@ -1,0 +1,1 @@
+(this["webpackJsonpfront-in-react"]=this["webpackJsonpfront-in-react"]||[]).push([[34],{710:function(n,t,a){"use strict";a.r(t),a.d(t,"default",(function(){return e}));a(0);var c=a(21),r=a(1);function e(n){var t=n.match;return Object(r.jsxs)(r.Fragment,{children:[Object(c.a)(t.params.coin).name," (",Object(c.a)(t.params.coin).code,")"]})}}}]);
