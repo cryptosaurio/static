@@ -1,0 +1,14 @@
+#cryptosaurio-provider-reviews-external-component-iframe {
+    border: none;
+    width: 100%;
+}
+@media (max-width: 767px) {
+    #cryptosaurio-provider-reviews-external-component-iframe {
+        height:279px
+    }
+}
+@media (min-width: 768px) {
+    #cryptosaurio-provider-reviews-external-component-iframe {
+        height:160px
+    }
+}
