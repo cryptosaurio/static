@@ -4,11 +4,11 @@
 }
 @media (max-width: 767px) {
     #cryptosaurio-provider-reviews-external-component-iframe {
-        height:312px
+        height:320px
     }
 }
 @media (min-width: 768px) {
     #cryptosaurio-provider-reviews-external-component-iframe {
-        height:160px
+        height:168px
     }
 }
